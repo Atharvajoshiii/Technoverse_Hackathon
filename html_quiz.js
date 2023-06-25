@@ -12,7 +12,7 @@ const questions=[
         question: "Which HTML element is used to define a hyperlink?",
         answers: [
             { text:"a", correct: true},
-            {text: " link", correct: false},
+            {text: "link", correct: false},
             {text: "url", correct: false},
             {text: "hyperlink", correct: false},
         ]
